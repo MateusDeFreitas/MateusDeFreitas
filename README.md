@@ -39,10 +39,13 @@
   <img width="12" />
 
   <img src="https://img.icons8.com/color/600/c-programming.png" height="30" alt="c logo"  />
+  <img width="12" />
 
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="30" alt="c++ logo"  />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
   
   <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Database-Monitoring.component.complex-narrative-xl.ts=1692276181038.png/content/adobe-cms/br/pt/products/instana/supported-technologies/azure-sql-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" height="30" alt="sql logo"  />
   <img width="12" />
