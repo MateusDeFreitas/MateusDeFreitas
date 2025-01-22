@@ -23,7 +23,7 @@
 
 <div align="left">
 
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="30" alt="javascript logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="30" alt="java logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -47,11 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   
-  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Database-Monitoring.component.complex-narrative-xl.ts=1692276181038.png/content/adobe-cms/br/pt/products/instana/supported-technologies/azure-sql-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" height="30" alt="sql logo"  />
-  <img width="12" />
-
-  <img src="https://icon-library.com/images/php-icon/php-icon-8.jpg" height="30" alt="php logo"  />
-  <img width="12" />
 </div>
 
 ###
