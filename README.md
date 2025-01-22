@@ -53,6 +53,10 @@
   <a href="https://www.linkedin.com/in/mateus-freitas-997105247/" target="blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
+  <a href="https://www.linkedin.com/in/mateus-freitas-997105247/" target="blank" style="text-decoration: none;">
+    <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/Capture-decran-2024-08-08-a-00.55.27.png" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
