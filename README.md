@@ -1,4 +1,4 @@
-<h1>Mateus Freitas</h1>
+<h1 text-align="center">Mateus Freitas</h1>
 
 
 <p align="left">
