@@ -1,9 +1,10 @@
 
-<p align="center">
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&width=500&lines=Bem+vindo+ao+meu+github!;Me+chamo+Mateus+Freitas+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9F" alt="Typing SVG">
   </a>
 </p>
+
 
 
 <h2 align="center">"Funciona na minha máquina!"</h2>
