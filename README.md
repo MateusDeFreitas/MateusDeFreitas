@@ -12,7 +12,12 @@
 <h2 align="center">"Funciona na minha máquina!"</h2>
 
 ###
+<p>
+  Eu sou Mateus, um desenvolvedor fullstack em formação, designer e entusiasta de tecnologia. Gosto de criar experiências digitais envolventes, superar desafios através de códigos e explorar o que há de mais recente em tecnologia.
 
+Estou sempre trabalhando em novos projetos para me manter afiado e levar minhas habilidades ao próximo nível. 🤖
+</p>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MateusDeFreitas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusDeFreitas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
