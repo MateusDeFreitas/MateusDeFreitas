@@ -20,41 +20,36 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ6cXhkajFjdzhteDUzYTMwaWV4MHlxdDhsdHZtNHFoZjJndnI4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
-
+## Minhas habilidades
 <div align="left">
-
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="30" alt="java logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql,figma,html,css,javascript,vscode,java,git,php,py,cs,visualstudio" />
 </div>
 
 ###
-
+## Sobre mim 
 <div align="left">
   <a class="pintao" href="https://www.instagram.com/mateus_sant01/" target="blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
   <a href="https://www.linkedin.com/in/mateus-freitas-997105247/" target="blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="https://wa.me/5511945794799?text=Ol%C3%A1,%20gostaria%20de%20falar%20com%20voc%C3%AA" target="_blank">
+    <img src="https://img.shields.io/badge/Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a> 
+  <a href="https://mateusdefreitas.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1962B1?style=for-the-badge&logo=rocket&logoColor=white"> 
+  </a> 
+  <a href="mailto:mateus.santosf05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  
+  <br/>
+  
 </div>
 
 ###
