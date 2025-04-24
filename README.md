@@ -29,7 +29,7 @@ Estou sempre trabalhando em novos projetos para me manter afiado e levar minhas 
 ###
 ## Minhas habilidades
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,figma,html,css,javascript,vscode,java,git,php,py,cs,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=mysql,figma,postman,html,css,javascript,vscode,java,git,php,py,cs,visualstudio" />
 </div>
 
 ###
