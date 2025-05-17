@@ -1,5 +1,4 @@
-<!--<h1 align="center">Mateus Freitas</h1>-->
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=header"/>
 
 <p align="left">
   <a href="https://git.io/typing-svg" text-align="center">
@@ -60,3 +59,5 @@ Estou sempre trabalhando em novos projetos para me manter afiado e levar minhas 
 ###
 
 <br clear="both">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=footer"/>
