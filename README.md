@@ -18,8 +18,11 @@ Estou sempre trabalhando em novos projetos para me manter afiado e levar minhas 
 </p>
 <br>
 <div align="center">
-  [![Mateus GitHub Streak](https://streak-stats.demolab.com?user=MateusDeFreitas&theme=transparent&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MateusDeFreitas&theme=transparent&locale=pt_BR&card_width=500" alt="GitHub Streak">
+  </a>
 </div>
+
 
 ## Minhas habilidades
 <div align="left">
