@@ -19,10 +19,8 @@ Estou sempre trabalhando em novos projetos para me manter afiado e levar minhas 
 <br>
 <div align="center">
   [![Mateus GitHub Streak](https://streak-stats.demolab.com?user=MateusDeFreitas&theme=transparent&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
-###
+</div>
 
-
-###
 ## Minhas habilidades
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,figma,postman,html,css,javascript,vscode,java,git,php,py,cs,visualstudio" />
