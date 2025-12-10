@@ -17,13 +17,12 @@
 Estou sempre trabalhando em novos projetos para me manter afiado e levar minhas habilidades ao próximo nível. 🤖
 </p>
 <br>
+<br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MateusDeFreitas&theme=transparent&locale=pt_BR&card_width=500" alt="GitHub Streak">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MateusDeFreitas&show_icons=true&theme=transparent&title_color=ff00ff&text_color=00aaff&icon_color=00aaff&bg_color=00000000">
   </a>
 </div>
-
-<br>
 <br>
 <br>
 
